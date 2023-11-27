@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include <stdlib.h>
 
-//OH YEAH*
+// nu yeah
 
 fap creer_fap_vide()
 {
