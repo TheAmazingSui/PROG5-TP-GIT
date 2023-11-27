@@ -2,6 +2,8 @@
 #include <unistd.h>
 #include <stdlib.h>
 
+// nu uh
+
 fap creer_fap_vide()
 {
   return NULL;
